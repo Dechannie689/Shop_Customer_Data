@@ -1,15 +1,7 @@
 # Shop Customer Analysis - Power BI
 ![](https://github.com/Dechannie689/Shop_Customer_Data/blob/main/Shop%20Customer%20Data.png)
 ## Abstract
-why
-what
-how
-## Methodology 
-1. Data missing nên replace values ở cột "Profession' thành Null.
-2. Create Age Group
-## Objective
-Understand and analyze key factors including enhanced employee performance tracking, improved employee retention, and deeper insights into employee engagement and satisfaction.
-Develop valuable insights and drive meaningful improvements to their HR practices, fostering a more productive and engaged workforce.
+Through meticulous data aggregation, analysis, and visualization, this project provide valuable insights about customers demographics using Power BI. The dataset in Shop_Customer_Data.csv explores how factors like age, gender, annual income, profession, spending score, etc. affect customer behaviors and the shop’s growth.
 ## Data Manipulation
 - Prior to analysis, I imported the dataset into Power BI and transformed it on Power Query Editor. Here are the step-by-step manipulations done on the source datasets:
 ### Step 1: Replacement of missing values
