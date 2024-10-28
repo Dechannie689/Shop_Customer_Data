@@ -26,14 +26,12 @@ Visual representation of data offers intuitive insights. The following visuals w
 #### Slicer
 - Resenting the age range and gender.
 #### Charts
-- Clustered column chart showing Employees by age group.
-- 
 - Pie charts for Average spending score by Gender.
 - Stacked bar chart for showing Customer by Age group.
 - Line and Stacked bar chart for showing:
--- Average Salary by Department/ Average Productivity by Position.
-- Stacked column chart for showing Satisfaction Rate per Department.
-- Matrix for showing Feedback Score by Position.
-- Table showing employees information
+  - Average spending score and Average annual income by Family size.
+  - Average spending score and Average annual income by Profession.
+  - Average annual income and Average work experience by Profession.
+- Table showing customer information.
 
 Gratitude for your time!
