@@ -2,6 +2,8 @@
 ![](https://github.com/Dechannie689/Shop_Customer_Data/blob/main/Shop%20Customer%20Data.png)
 ## Abstract
 This project leverages comprehensive data aggregation, analysis, and visualization in Power BI to uncover key insights into customer demographics. The Shop_Customer_Data.csv dataset analyzes how variables such as age, gender, annual income, profession, and spending score shape customer behavior and drive the shop’s growth.
+
+Please click [HERE](https://github.com/Dechannie689/Shop_Customer_Data/blob/main/ShopCustomerAnalysis_PowerBI.pbix) to read full dashboard.
 ## Data Manipulation
 Prior to analysis, I imported the dataset into Power BI and transformed it on Power Query Editor. Here are the step-by-step manipulations done on the source datasets:
 ### Step 1: Replacement of missing values
